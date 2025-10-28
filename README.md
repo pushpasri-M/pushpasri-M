@@ -62,8 +62,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/pushpasri-m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-- [LinkedIn](https://www.linkedin.com/in/pushpasri-m/)
-
 ---
 
 <!-- Optionally, add a quote or fun fact below! -->
