@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 - **Sqleet Encryption:**  
   A project focused on secure and efficient data encryption.  
-  _[Add your project repo link or more details here!]_
+  _[https://github.com/pushpasri-M/SqleetDBEncryption.git]_
 
 - **Sign Language Conversion:**  
   Converts sign language gestures to text/speech for accessibility.  
-  _[Add your project repo link or more details here!]_
+  _[https://github.com/pushpasri-M/Signlanuage.git]_
 
 ---
 
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 ---
 
 <!-- Optionally, add a quote or fun fact below! -->
-<!--
+
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
--->
+
 
 Thanks for stopping by! 😊
