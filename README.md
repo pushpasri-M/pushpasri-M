@@ -56,16 +56,11 @@ Here are some ideas to get you started:
 
 ---
 
-
-## 📊 GitHub Stats
+## 📫 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PushpasriM&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PushpasriM&theme=tokyonight" height="160" />
+  <a href="https://www.linkedin.com/in/pushpasri-m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
----
-## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/pushpasri-m/)
 
