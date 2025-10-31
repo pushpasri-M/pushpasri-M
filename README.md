@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
+
 ## 🚀 About Me
 
 - 🏆 **SIH24 Finalist** – Proud participant and finalist in the Smart India Hackathon 2024!
@@ -70,3 +71,5 @@ Here are some ideas to get you started:
 
 
 Thanks for stopping by! 😊
+![Visitors](https://komarev.com/ghpvc/?username=pushpasri-M&label=Profile%20views&color=brightgreen&style=flat)
+
